@@ -1,0 +1,57 @@
+c:\users\eduardo\documents\visual studio 2012\Projects\CadastroAlunos\CadastroAlunos\bin\CadastroAlunos.dll
+c:\users\eduardo\documents\visual studio 2012\Projects\CadastroAlunos\CadastroAlunos\bin\CadastroAlunos.pdb
+c:\users\eduardo\documents\visual studio 2012\Projects\CadastroAlunos\CadastroAlunos\bin\Antlr3.Runtime.dll
+c:\users\eduardo\documents\visual studio 2012\Projects\CadastroAlunos\CadastroAlunos\bin\EntityFramework.dll
+c:\users\eduardo\documents\visual studio 2012\Projects\CadastroAlunos\CadastroAlunos\bin\Microsoft.Web.Infrastructure.dll
+c:\users\eduardo\documents\visual studio 2012\Projects\CadastroAlunos\CadastroAlunos\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+c:\users\eduardo\documents\visual studio 2012\Projects\CadastroAlunos\CadastroAlunos\bin\Newtonsoft.Json.dll
+c:\users\eduardo\documents\visual studio 2012\Projects\CadastroAlunos\CadastroAlunos\bin\System.Web.Mvc.dll
+c:\users\eduardo\documents\visual studio 2012\Projects\CadastroAlunos\CadastroAlunos\bin\System.Web.Optimization.dll
+c:\users\eduardo\documents\visual studio 2012\Projects\CadastroAlunos\CadastroAlunos\bin\System.Web.Providers.dll
+c:\users\eduardo\documents\visual studio 2012\Projects\CadastroAlunos\CadastroAlunos\bin\System.Web.Razor.dll
+c:\users\eduardo\documents\visual studio 2012\Projects\CadastroAlunos\CadastroAlunos\bin\System.Web.WebPages.Deployment.dll
+c:\users\eduardo\documents\visual studio 2012\Projects\CadastroAlunos\CadastroAlunos\bin\System.Web.WebPages.dll
+c:\users\eduardo\documents\visual studio 2012\Projects\CadastroAlunos\CadastroAlunos\bin\System.Web.WebPages.Razor.dll
+c:\users\eduardo\documents\visual studio 2012\Projects\CadastroAlunos\CadastroAlunos\bin\WebGrease.dll
+c:\users\eduardo\documents\visual studio 2012\Projects\CadastroAlunos\CadastroAlunos\bin\EntityFramework.xml
+c:\users\eduardo\documents\visual studio 2012\Projects\CadastroAlunos\CadastroAlunos\bin\Newtonsoft.Json.xml
+c:\users\eduardo\documents\visual studio 2012\Projects\CadastroAlunos\CadastroAlunos\bin\System.Web.Mvc.xml
+c:\users\eduardo\documents\visual studio 2012\Projects\CadastroAlunos\CadastroAlunos\bin\System.Web.Razor.xml
+c:\users\eduardo\documents\visual studio 2012\Projects\CadastroAlunos\CadastroAlunos\bin\System.Web.WebPages.xml
+c:\users\eduardo\documents\visual studio 2012\Projects\CadastroAlunos\CadastroAlunos\bin\System.Web.WebPages.Deployment.xml
+c:\users\eduardo\documents\visual studio 2012\Projects\CadastroAlunos\CadastroAlunos\bin\System.Web.WebPages.Razor.xml
+c:\users\eduardo\documents\visual studio 2012\Projects\CadastroAlunos\CadastroAlunos\obj\Debug\CadastroAlunos.csprojResolveAssemblyReference.cache
+c:\users\eduardo\documents\visual studio 2012\Projects\CadastroAlunos\CadastroAlunos\obj\Debug\CadastroAlunos.dll
+c:\users\eduardo\documents\visual studio 2012\Projects\CadastroAlunos\CadastroAlunos\obj\Debug\CadastroAlunos.pdb
+F:\CadastroAlunos\CadastroAlunos\bin\CadastroAlunos.dll.config
+F:\CadastroAlunos\CadastroAlunos\bin\CadastroAlunos.dll
+F:\CadastroAlunos\CadastroAlunos\bin\CadastroAlunos.pdb
+F:\CadastroAlunos\CadastroAlunos\bin\Antlr3.Runtime.dll
+F:\CadastroAlunos\CadastroAlunos\bin\EntityFramework.dll
+F:\CadastroAlunos\CadastroAlunos\bin\Microsoft.Web.Infrastructure.dll
+F:\CadastroAlunos\CadastroAlunos\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+F:\CadastroAlunos\CadastroAlunos\bin\Newtonsoft.Json.dll
+F:\CadastroAlunos\CadastroAlunos\bin\System.Net.Http.Formatting.dll
+F:\CadastroAlunos\CadastroAlunos\bin\System.Web.Http.dll
+F:\CadastroAlunos\CadastroAlunos\bin\System.Web.Http.WebHost.dll
+F:\CadastroAlunos\CadastroAlunos\bin\System.Web.Mvc.dll
+F:\CadastroAlunos\CadastroAlunos\bin\System.Web.Optimization.dll
+F:\CadastroAlunos\CadastroAlunos\bin\System.Web.Providers.dll
+F:\CadastroAlunos\CadastroAlunos\bin\System.Web.Razor.dll
+F:\CadastroAlunos\CadastroAlunos\bin\System.Web.WebPages.Deployment.dll
+F:\CadastroAlunos\CadastroAlunos\bin\System.Web.WebPages.dll
+F:\CadastroAlunos\CadastroAlunos\bin\System.Web.WebPages.Razor.dll
+F:\CadastroAlunos\CadastroAlunos\bin\WebGrease.dll
+F:\CadastroAlunos\CadastroAlunos\bin\EntityFramework.xml
+F:\CadastroAlunos\CadastroAlunos\bin\Newtonsoft.Json.xml
+F:\CadastroAlunos\CadastroAlunos\bin\System.Net.Http.Formatting.xml
+F:\CadastroAlunos\CadastroAlunos\bin\System.Web.Http.xml
+F:\CadastroAlunos\CadastroAlunos\bin\System.Web.Http.WebHost.xml
+F:\CadastroAlunos\CadastroAlunos\bin\System.Web.Mvc.xml
+F:\CadastroAlunos\CadastroAlunos\bin\System.Web.Razor.xml
+F:\CadastroAlunos\CadastroAlunos\bin\System.Web.WebPages.xml
+F:\CadastroAlunos\CadastroAlunos\bin\System.Web.WebPages.Deployment.xml
+F:\CadastroAlunos\CadastroAlunos\bin\System.Web.WebPages.Razor.xml
+F:\CadastroAlunos\CadastroAlunos\obj\Debug\CadastroAlunos.csprojResolveAssemblyReference.cache
+F:\CadastroAlunos\CadastroAlunos\obj\Debug\CadastroAlunos.dll
+F:\CadastroAlunos\CadastroAlunos\obj\Debug\CadastroAlunos.pdb

@@ -1,0 +1,119 @@
+﻿@model CadastroAlunos.Models.Aluno
+
+@{
+    ViewBag.Title = "Cadastro de Alunos";
+}
+<div class="jumbotron" >
+    <h1>Novo aluno</h1>
+    <p></p>
+    <p>@Html.ActionLink("Cancelar", "Index", null, new { @class = "btn btn-primary" })</p>
+</div>
+@using (Html.BeginForm())
+{
+    <fieldset>
+        <legend>Cadastro do Aluno</legend>
+        <ul class="nav nav-pills">
+            <li role="presentation" class="active"><a href="#tab1" data-toggle="tab">Dados Pessoais</a></li>
+            <li role="presentation"><a href="#tab2" data-toggle="tab">Endereço</a></li>
+            <li role="presentation"><a href="#tab3" data-toggle="tab">Dados do Curso</a></li>
+        </ul>
+        <div>&nbsp</div>
+        <div>&nbsp</div>
+        <div>&nbsp</div>
+        <div class="tab-content" style="margin-bottom: 100px">
+            <div class="tab-pane active" id="tab1">
+
+                <div class="form-group col-sm-2">
+                    @Html.LabelFor(Model => Model.Nome)
+                    @Html.TextBoxFor(Model => Model.Nome, new { @class = "form-control", @placeholder = "Nome do Aluno" })
+                </div>
+                <div class="form-group col-sm-2">
+                    @Html.LabelFor(Model => Model.NomePai)
+                    @Html.TextBoxFor(Model => Model.NomePai, new { @class = "form-control", @placeholder = "Nome do Pai" })
+                </div>
+                <div class="form-group col-sm-2">
+                    @Html.LabelFor(Model => Model.NomeMae)
+                    @Html.TextBoxFor(Model => Model.NomeMae, new { @class = "form-control", @placeholder = "Nome do Mãe" })
+                </div>
+                <div class="form-group col-sm-2">
+                    @Html.LabelFor(Model => Model.Rg)
+                    @Html.TextBoxFor(Model => Model.Rg, new { @class = "form-control", @placeholder = "Rg do Aluno" })
+                </div>
+                <div class="form-group col-sm-2">
+                    @Html.LabelFor(Model => Model.Cpf)
+                    @Html.TextBoxFor(Model => Model.Cpf, new { @class = "form-control", @placeholder = "Cpf do Aluno" })
+                </div>
+                <div class="form-group col-sm-2">
+                    @Html.LabelFor(Model => Model.Email)
+                    @Html.TextBoxFor(Model => Model.Email, new { @class = "form-control", @placeholder = "E-mail do Aluno" })
+                </div>
+                <div class="form-group col-sm-2">
+                    @Html.LabelFor(Model => Model.DtCadastro)
+                    @Html.TextBoxFor(Model => Model.DtCadastro, new { @class = "form-control", @placeholder = "Data do Cadastro" })
+                </div>
+            </div>
+            <div class="tab-pane" id="tab2">
+                <div class="form-group col-sm-2">
+                    @Html.LabelFor(Model => Model.Rua)
+                    @Html.TextBoxFor(Model => Model.Rua, new { @class = "form-control", @placeholder = "Logradouro" })
+                </div>
+                <div class="form-group col-sm-2">
+                    @Html.LabelFor(Model => Model.Numero)
+                    @Html.TextBoxFor(Model => Model.Numero, new { @class = "form-control", @placeholder = "Número" })
+                </div>
+                <div class="form-group col-sm-2">
+                    @Html.LabelFor(Model => Model.Complemento)
+                    @Html.TextBoxFor(Model => Model.Complemento, new { @class = "form-control", @placeholder = "Complemento" })
+                </div>
+                <div class="form-group col-sm-2">
+                    @Html.LabelFor(Model => Model.Bairro)
+                    @Html.TextBoxFor(Model => Model.Bairro, new { @class = "form-control", @placeholder = "Bairro" })
+                </div>
+                <div class="form-group col-sm-1">
+                    @Html.LabelFor(Model => Model.Estado)
+                    @Html.TextBoxFor(Model => Model.Estado, new { @class = "form-control", @placeholder = "Estado" })
+                </div>
+                <div class="form-group col-sm-2">
+                    @Html.LabelFor(Model => Model.Cidade)
+                    @Html.TextBoxFor(Model => Model.Cidade, new { @class = "form-control", @placeholder = "Estado" })
+                </div>
+                <div class="form-group col-sm-2">
+                    @Html.LabelFor(Model => Model.Cep)
+                    @Html.TextBoxFor(Model => Model.Cep, new { @class = "form-control", @placeholder = "Cep" })
+                </div>
+            </div>
+
+            <div class="tab-pane" id="tab3">
+                <div class="form-group col-sm-2">
+                    @Html.LabelFor(Model => Model.Ra)
+                    @Html.TextBoxFor(Model => Model.Ra, new { @class = "form-control", @placeholder = "RA" })
+                </div>
+                <div class="form-group col-sm-2">
+                    @Html.LabelFor(Model => Model.Curso)
+                    @Html.TextBoxFor(Model => Model.Curso, new { @class = "form-control", @placeholder = "Curso" })
+                </div>
+                <div class="form-group col-sm-2">
+                    @Html.LabelFor(Model => Model.Semestre)
+                    @Html.TextBoxFor(Model => Model.Semestre, new { @class = "form-control", @placeholder = "Semestre" })
+                </div>
+                <div class="form-group col-sm-2">
+                    @Html.LabelFor(Model => Model.Periodo)
+                    @Html.TextBoxFor(Model => Model.Periodo, new { @class = "form-control", @placeholder = "Período" })
+                </div>
+                <div class="form-group col-sm-4">
+                    <p>
+                        <button type="submit" class="btn btn-primary ">Gravar</button>
+                    </p>
+                </div>
+            </div>
+
+        </div>
+    </fieldset>
+    
+   
+}
+
+
+
+
+
